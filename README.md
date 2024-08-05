@@ -1,3 +1,6 @@
+# node版本
+要求node为18版本 如 18.19.1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
