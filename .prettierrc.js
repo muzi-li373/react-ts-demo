@@ -2,8 +2,8 @@
  * @Author: zcy
  * @Date: 2024-08-01 20:16:36
  * @LastEditors: zcy
- * @LastEditTime: 2024-08-05 19:47:38
- * @Description: 自定义
+ * @LastEditTime: 2024-08-15 19:53:55
+ * @Description: 自定义prettierrc
  */
 
 module.exports = {
